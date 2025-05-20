@@ -1,0 +1,26 @@
+
+.game{
+ width: 600px;
+}
+
+button {
+  background-color:  hsl(285, 69%, 10%);
+  border: 10px solid (233deg,rgba(0, 110, 153, 1) 0%, rgba(161, 0, 70, 1) 100%);;
+  color: #ecd6d6;
+  padding: 12px 20px;
+  cursor: pointer;
+  text-shadow: 0 0 10px #a70b7300;
+  transition: 0.3s;
+  margin: 5px;
+  color: #ffffff;
+  font-family: 'Orbitron', sans-serif;
+}
+
+button:hover {
+  text-shadow: 0 0 20px #000000cb;
+  box-shadow: 0 0 20px hsl(286, 100%, 20%);
+}
+p{
+   font-size: 18px;
+
+}

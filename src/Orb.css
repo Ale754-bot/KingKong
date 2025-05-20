@@ -1,0 +1,12 @@
+.orb-container {
+  position:absolute;
+  width: 100%;
+  height: 80%;
+  background-image: url(King.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 30%;
+  background-attachment:scroll;
+  z-index: 2;
+}
+
